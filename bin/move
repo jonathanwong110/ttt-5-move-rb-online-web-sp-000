@@ -13,4 +13,8 @@ index = input_to_index(input)
 
 move(board, index)
 
+<<<<<<< HEAD
 display_board(board)
+=======
+display_board
+>>>>>>> 5f688cc567d07f2852730919b692c2eb31872620

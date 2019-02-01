@@ -13,7 +13,6 @@ def input_to_index(integer)
   integer.to_i - 1
 end
 
-
 def move(board, position, character = "X")
   update_array_at_with(board, position, character)
 end
